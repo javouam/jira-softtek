@@ -1,0 +1,6 @@
+Project_key,Board_name,Board_id,Sprint_name,Sprint_id,Issue_key,Issue_Type,Issue_Status,Issue_summary,Issue_story_points
+TD,TD board,3,TD Sprint 1,1,TD-1,Story,Done,Hola,13.0
+TD,TD board,3,TD Sprint 1,1,TD-2,Story,Done,Ejemplo,5.0
+TD,TD board,3,TD Sprint 2,34,TD-13,Story,To Do,HU-Fee Liberación-01.01 ,13.0
+TD,TD board,3,TD Sprint 2,34,TD-14,Story,To Do,HU-Fee Liberación-01.02 ,5.0
+TD,TD board,3,TD Sprint 2,34,TD-15,Story,To Do,HU-Fee Liberación-01.03 ,13.0

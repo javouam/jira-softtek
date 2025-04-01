@@ -1,0 +1,122 @@
+Key,Id_Issue,Parent_Id_Issue,Summary,Type,Status,Sprint_Name,Story_Points,Time_Original_Estimate,Time_Spent
+TD-121,10157,10051,Presentacion DEMO,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-120,10156,10051,Documentación de ejecución de defectos,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-119,10155,10051,Ejecución de defectos,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-118,10154,10051,Documentación de ejecución,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-117,10153,10051,Ejecución de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-116,10152,10051,Peer Review matriz de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-115,10151,10051,Diseño de matriz de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-114,10150,10051,Análisis del requerimiento,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-113,10149,10051,Actualización de documento de Especificación Técnica ,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-112,10148,10051,Deploy DEV,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-111,10147,10051,Peer review Código,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-110,10146,10051,Pruebas Unitarias,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-109,10145,10051,Construcción,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-108,10144,10051,Revisión de Entregable,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-107,10143,10050,Presentacion DEMO,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-106,10142,10050,Documentación de ejecución de defectos,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-105,10141,10050,Ejecución de defectos,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-104,10140,10050,Documentación de ejecución,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-103,10139,10050,Ejecución de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-102,10138,10050,Peer Review matriz de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-101,10137,10050,Diseño de matriz de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-100,10136,10050,Análisis del requerimiento,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-99,10135,10050,Actualización de documento de Especificación Técnica ,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-98,10134,10050,Deploy DEV,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-97,10133,10050,Peer review Código,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-96,10132,10050,Pruebas Unitarias,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-95,10131,10050,Construcción,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-94,10130,10050,Revisión de Entregable,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-93,10129,10049,Presentacion DEMO,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-92,10128,10049,Documentación de ejecución de defectos,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-91,10127,10049,Ejecución de defectos,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-90,10126,10049,Documentación de ejecución,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-89,10125,10049,Ejecución de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-88,10124,10049,Peer Review matriz de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-87,10123,10049,Diseño de matriz de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-86,10122,10049,Análisis del requerimiento,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-85,10121,10049,Actualización de documento de Especificación Técnica ,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-84,10120,10049,Deploy DEV,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-83,10119,10049,Peer review Código,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-82,10118,10049,Pruebas Unitarias,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-81,10117,10049,Construcción,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-80,10116,10049,Revisión de Entregable,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-79,10115,10048,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-78,10114,10048,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-77,10113,10048,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-76,10112,10048,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-75,10111,10048,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-74,10110,10048,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-73,10109,10048,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-72,10108,10048,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-71,10107,10047,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-70,10106,10047,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-69,10105,10047,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-68,10104,10047,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-67,10103,10047,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-66,10102,10047,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-65,10101,10047,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-64,10100,10047,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-63,10099,10046,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-62,10098,10046,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-61,10097,10046,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-60,10096,10046,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-59,10095,10046,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-58,10094,10046,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-57,10093,10046,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-56,10092,10046,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-55,10091,10045,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-54,10090,10045,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-53,10089,10045,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-52,10088,10045,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-51,10087,10045,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-50,10086,10045,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-49,10085,10045,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-48,10084,10045,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-47,10083,10044,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-46,10082,10044,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-45,10081,10044,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-44,10080,10044,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-43,10079,10044,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-42,10078,10044,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-41,10077,10044,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-40,10076,10044,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-39,10075,10043,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-38,10074,10043,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-37,10073,10043,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-36,10072,10043,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-35,10071,10043,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-34,10070,10043,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-33,10069,10043,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-32,10068,10043,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-31,10067,10042,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-30,10066,10042,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-29,10065,10042,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-28,10064,10042,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-27,10063,10042,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-26,10062,10042,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-25,10061,10042,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-24,10060,10042,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-23,10059,10041,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-22,10058,10041,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-21,10057,10041,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-20,10056,10041,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-19,10055,10041,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-18,10054,10041,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-17,10053,10041,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-16,10052,10041,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-15,10051, ,HU-Fee Liberación-01.03 ,Story,To Do,TD Sprint 2,13.0,0.0,0.0
+TD-14,10050, ,HU-Fee Liberación-01.02 ,Story,To Do,TD Sprint 2,5.0,0.0,0.0
+TD-13,10049, ,HU-Fee Liberación-01.01 ,Story,To Do,TD Sprint 2,13.0,0.0,0.0
+TD-12,10048, ,[REF]HU-Fee Liberación-01.10 ,Task,To Do,,,0.0,0.0
+TD-11,10047, ,[REF] HU-Fee Liberación-01.09,Task,To Do,,,0.0,0.0
+TD-10,10046, ,[REF] HU-Fee Liberación-01.08 ,Task,To Do,,,0.0,0.0
+TD-9,10045, ,[REF] HU-Fee Liberación-01.07 ,Task,To Do,,,0.0,0.0
+TD-8,10044, ,[REF] Nota tecnica 2.4 Interfaz SAP,Task,To Do,,,0.0,0.0
+TD-7,10043, ,[REF] HU-Fee Liberación-01.05,Task,To Do,,,0.0,0.0
+TD-6,10042, ,[REF] HU-Fee Liberación-01.04 ,Task,To Do,,,0.0,0.0
+TD-5,10041, ,[REF]HU-Fee Liberación-01.06 ,Task,To Do,,,0.0,0.0
+TD-4,10040, ,bug prueba 2,Bug,CERRADO,TD Sprint 1,,0.0,2.0
+TD-3,10039, ,bug prueba,Bug,CERRADO,,,0.0,0.0
+TD-2,10038, ,Ejemplo,Story,Done,TD Sprint 1,5.0,0.0,3.0
+TD-1,10037, ,Hola,Story,Done,TD Sprint 1,13.0,0.0,5.0
